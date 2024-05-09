@@ -1,0 +1,12 @@
+{
+	"name": "monorepo-module-federation",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {},
+	"author": "k.bogorodskii",
+	"license": "ISC",
+	"workspaces": [
+		"packages/*",
+		"services/*"
+	]
+}
